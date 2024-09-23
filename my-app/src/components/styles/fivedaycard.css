@@ -1,0 +1,25 @@
+.forecast-card {
+    width: 170px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    background-image: linear-gradient(rgb(136, 223, 210),rgb(155, 122, 122));
+}
+
+.weather-icon {
+    font-size: 2rem;
+}
+
+.temperatures p {
+    margin: 0;
+}
+h3{
+    color:aliceblue
+}
+
+.weather-icon {
+    width: 50px;
+    height: 50px;
+    vertical-align: middle;
+}

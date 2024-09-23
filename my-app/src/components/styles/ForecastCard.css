@@ -1,0 +1,14 @@
+.container{
+    width: 50%;
+    background-color:rgba(197, 201, 202, 0.5);
+    border-radius: 3px;
+}
+img{
+    width: 40px;
+    height:40px;
+}
+
+#convertion{
+    cursor: pointer;
+    color:aliceblue;
+}
